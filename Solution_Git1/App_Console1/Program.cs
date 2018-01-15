@@ -11,6 +11,7 @@ namespace App_Console1
         static void Main(string[] args)
         {
             Console.WriteLine("ciao");
+            Console.WriteLine("Ho fatto una modifica");
             Console.ReadLine();
         }
     }
